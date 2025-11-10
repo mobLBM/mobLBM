@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top">
       <h3>Cyber<br/>Security</h3>   
       <div align="center">  
       <a href="https://www.linux.org/" target="_blank">
@@ -46,7 +46,7 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top">
       <h3>Front-End</h3>   
       <div align="center">  
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
@@ -69,7 +69,7 @@
         </a>  
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top">
       <h3>Back-End</h3>   
       <div align="center">  
         <a href="https://www.mongodb.com/" target="_blank">
@@ -89,6 +89,7 @@
         </a>  
       </div>
     </td>
+    td
   </tr>
 </table>  
 
