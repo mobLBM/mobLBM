@@ -29,7 +29,7 @@
 
 ## My Skill Set  
 
-<table>
+<table width:100%>
   <tr>
     <td valign="top">
       <h3>Cyber<br/>Security</h3>   
