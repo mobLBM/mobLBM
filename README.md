@@ -18,8 +18,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mobLBM&&style=flat-square" align="center" />
-</div> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mobLBM.mobLBM&"  />
+</div>
 
 
 ### **🧑‍💻 About me**  
