@@ -28,7 +28,7 @@
 </div>
 
 
-### **🧑‍💻 About me**  
+## **🧑‍💻 About me**  
   
 
 - 🎓 BSc Cyber Security @ UOW (Oracle/PLSQL, Networks, AI basics)  
