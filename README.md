@@ -37,7 +37,7 @@
 - 🔐 Interests: Blue Team, Red Team, AppSec, DFIR, also ML in Cyber Security  
   
 
-- ⚙️ Practice: Packet Tracer (VLAN/ACL/VPN), PL/SQL (триггеры/процедуры), Python (pandas, numpy, matplotlib, scikit‑learn)  
+- ⚙️ Practice: Packet Tracer (VLAN/ACL/VPN/FireWall/IDS), PL/SQL (триггеры/процедуры), Python (pandas, numpy, matplotlib, scikit‑learn)  
   
 
 - 🧠 Pentesting: Burp Suite, Metasploit, Nmap, OWASP ZAP, Hydra, Kali Linux  
