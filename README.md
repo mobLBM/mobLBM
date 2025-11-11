@@ -34,7 +34,7 @@
 - 🎓 BSc Cyber Security @ UOW (Oracle/PLSQL, Networks, AI basics)  
   
 
-- 🔐 Interests: Blue Team, AppSec, DFIR, also ML in Cyber Security  
+- 🔐 Interests: Blue Team, Red Team, AppSec, DFIR, also ML in Cyber Security  
   
 
 - ⚙️ Practice: Packet Tracer (VLAN/ACL/VPN), PL/SQL (триггеры/процедуры), Python (pandas, numpy, matplotlib, scikit‑learn)  
