@@ -63,8 +63,8 @@
         <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
       <a href="https://www.python.org/" target="_blank">
         <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-      <a href="https://www.docker.com/" target="_blank">
-        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+      <a href="https://www.docker.com/" target="_blank" style="margin: 50px">
+        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
 <br/>
