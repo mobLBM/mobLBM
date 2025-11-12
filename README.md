@@ -54,7 +54,7 @@
 
         
 <div>  
-      <h3>Cyber Security</h3> 
+      <h3>Cyber Security/Pentest</h3> 
       <a href="https://www.linux.org/" target="_blank">
         <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
       <a href="https://about.gitlab.com/" target="_blank">
